@@ -26,7 +26,8 @@ const Hero: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-pink-400 shadow-2xl relative z-10">
                 {/* Replace with your actual photo URL */}
                 <img 
-                  src="src\components\foto.jpg" 
+                  src="src\assets\foto.jpg"   
+
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
